@@ -61,25 +61,41 @@ A clean, event-driven desktop application built with **C#** and **Windows Forms 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 📦 Quick Download (Pre-built Executable)
+
+If you want to test the application directly without installing Visual Studio or compiling source code:
+
+1. Click the button above (or navigate to the **[Releases](../../releases)** page).
+2. Download `Pizza-Order-Program-v1.0.0.zip`.
+3. Extract the ZIP archive and run `Simple Pizza Project.exe`.
+
+---
+
+### 🛠️ Building From Source
+
+#### Prerequisites
 
 To build and run this application locally, ensure you have:
-- [Visual Studio Community Edition 2026](https://visualstudio.microsoft.com/) (or Visual Studio 2019/2022) (or newer version)
-- **.NET desktop development** workload installed in Visual Studio.
 
-### Installation & Execution
+* [Visual Studio Community Edition 2026](https://visualstudio.microsoft.com/) (or Visual Studio 2019/2022 or higher)
+* **.NET desktop development** workload installed.
+
+#### Installation & Execution
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Abdullah-Shalgam/simple-pizza-project.git
-   cd simple-pizza-project
-   ```
+```bash
+git clone https://github.com/Abdullah-Shalgam/simple-pizza-project.git
+cd simple-pizza-project
+
+```
+
 
 2. **Open the Project**
-   - Double-click `Simple Pizza Project.slnx` or open it via Visual Studio 2026.
+* Double-click `Simple Pizza Project.slnx` or open it via Visual Studio.
+
 
 3. **Build & Run**
-   - Press `F5` or click **Start** in Visual Studio to build and launch the application.
+* Press `F5` or click **Start** in Visual Studio.
 
 ---
 
